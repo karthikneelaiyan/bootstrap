@@ -1,0 +1,8 @@
+.modal-header {
+  background-color: #512DA8;
+  color: #fffaf0; }
+  .modal-header .close {
+    color: #fffaf0; }
+
+.modal-body {
+  background-color: #D1C4E9; }

@@ -1,0 +1,17 @@
+$background-dark: #512DA8;
+$background-pale: #D1C4E9;
+$floral-white:#fffaf0;
+
+.modal-header {
+    background-color: $background-dark;
+    color:$floral-white;
+.close
+    {
+        color:$floral-white;
+    }
+}
+   
+  
+  .modal-body {
+    background-color: $background-pale
+}
